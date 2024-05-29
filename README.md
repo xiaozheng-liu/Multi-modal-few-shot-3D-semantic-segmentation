@@ -1,6 +1,6 @@
 # Multi-modal-few-shot-3D-semantic-segmentation
 
-Code will be released soon.
+Data and code will be made available after the review process is complete.
 
 Please refer to the paper video: https://youtu.be/XwBOhX0_NuU
 
